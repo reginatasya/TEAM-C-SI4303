@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 Tetapi menjelang masuk kota, bor tergusur keluar dari pikirannya oleh sesuatu yang
 lain. Sementara terjebak macet seperti biasanya, dia melihat banyak orang berpakaian aneh.
+=======
+Si kucing balas memandangnya, Saat Mr Dursley berbelok di sudut dan meneruskan 
+perjalanan, dia memandang kucing itu lewat kaca spionnya. Kucing itu sekarang sedang 
+membaca papan jalan yang bertuliskan Privet Drive—bukan, bukan membaca melainkan 
+memandang papan jalan itu, kucing itu tidak bisa membaca peta atau papan jalan. Mr Dursley 
+menggelengkan kepalanya dan mencoba melupakan kucing itu.
+>>>>>>> 809f0d9acdace4e4fe14032824b6209df0c9f98a
