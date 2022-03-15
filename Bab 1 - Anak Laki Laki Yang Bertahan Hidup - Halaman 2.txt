@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Orang-orang yang memakai jubah. Mr Dursley tak tahan melihat orang yang berpakaian
 aneh-aneh—dandanan anakanak muda jaman sekarang! Dia kira jubah bloon ini sedang
 mode. Dia mengetuk-ngetukkan jarinya pada kemudi mobil dan matanya menatap
@@ -8,3 +9,7 @@ kemudian terlintas di benaknya bahwa mereka mungkin sengaja berdandan seperti
 itu—mereka pastilah sedang mengumpulkan dana entah untuk apa—ya, pasti begitu.
 Kendaraan-kendaraan mulai bergerak, dan beberapa menit kemudian Mr Dursley tiba di
 tempat parkir Grunnings, pikirannya kembali dipenuhi bor.
+=======
+Selama mengendarai mobilnya ke kota, yang dipikirkannya hanyalah pesanan bor
+dalam jumlah besar yang akan didapatnya hari itu.
+>>>>>>> eea02a4812d9053929cb11956d1577c4dee0e5cc
